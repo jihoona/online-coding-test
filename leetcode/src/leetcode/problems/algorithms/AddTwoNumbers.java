@@ -8,7 +8,7 @@ public class AddTwoNumbers {
         int addNextDigit = 0;
         List<Integer> numbers = new ArrayList<>();
 
-        while (l1 != null || l2 != null)){
+        while (l1 != null || l2 != null){
             int firstNum = 0;
             int secondNum = 0;
 
