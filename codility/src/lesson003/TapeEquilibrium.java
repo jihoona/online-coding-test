@@ -1,4 +1,4 @@
-package codility.lesson003;
+package lesson003;
 
 public class TapeEquilibrium {
 
