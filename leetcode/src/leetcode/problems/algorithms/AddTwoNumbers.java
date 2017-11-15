@@ -4,11 +4,22 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class AddTwoNumbers {
+
+    /*
+    *   Input: (2 -> 4 -> 3) + (5 -> 6 -> 4)
+    *   Process: Add the two numbers and return it as a linked list.
+    *   Output: 7 -> 0 -> 8
+    *
+    *   Requirement:
+    *
+    *   Personal review:
+    */
+
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         int addNextDigit = 0;
         List<Integer> numbers = new ArrayList<>();
 
-        while (l1 != null || l2 != null){
+        while (l1 != null || l2 != null) {
             int firstNum = 0;
             int secondNum = 0;
 
