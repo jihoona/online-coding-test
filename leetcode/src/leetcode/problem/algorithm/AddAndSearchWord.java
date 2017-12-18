@@ -1,4 +1,4 @@
-package leetcode.problems.algorithms;
+package leetcode.problem.algorithm;
 
 public class AddAndSearchWord {
 
