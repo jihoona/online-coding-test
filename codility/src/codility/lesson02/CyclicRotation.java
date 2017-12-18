@@ -1,4 +1,4 @@
-package lesson002;
+package codility.lesson02;
 
 public class CyclicRotation {
 

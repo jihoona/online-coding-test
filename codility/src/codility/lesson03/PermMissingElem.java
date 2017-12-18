@@ -1,4 +1,4 @@
-package lesson003;
+package codility.lesson03;
 
 public class PermMissingElem {
 

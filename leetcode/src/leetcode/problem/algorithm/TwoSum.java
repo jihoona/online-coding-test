@@ -1,4 +1,4 @@
-package leetcode.problems.algorithms;
+package leetcode.problem.algorithm;
 
 import java.util.HashMap;
 import java.util.Map;
